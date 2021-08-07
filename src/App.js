@@ -4,7 +4,7 @@ import './style.css';
 export default function App() {
   return (
     <div>
-      <h1>hello yoonseok. practice sdddtart</h1>
+      <h1>hello ssyoonseok. practice sdddtart</h1>
       <p>Start editing to see some magic happen :)</p>
     </div>
   );
